@@ -1,17 +1,14 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="wrap_content"
-    android:layout_height="wrap_content" android:paddingLeft="@dimen/activity_horizontal_margin"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
-    android:orientation="vertical"
-    android:id="@+id/mainActivity">
+    android:id="@+id/mainActivity"
+    android:background="#000000"
+    android:gravity="center_vertical|center_horizontal">
 
-    <AnalogClock
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/analogClock"
-        android:clickable="false" />
+
     <TextClock
         android:layout_width="wrap_content"
         android:id="@+id/textClock"
@@ -19,8 +16,10 @@
         android:format24Hour="HH:mm:ss"
         android:layout_gravity="center_horizontal"
         android:elegantTextHeight="true"
-        android:textSize="35sp"
+        android:textSize="60sp"
         android:textIsSelectable="false"
-        android:fontFamily="sans-serif-light" />
+        android:fontFamily="sans-serif-light"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 
-</LinearLayout>
+</RelativeLayout>
