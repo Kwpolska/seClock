@@ -13,6 +13,7 @@
         android:layout_width="wrap_content"
         android:id="@+id/textClock"
         android:layout_height="wrap_content"
+        android:format12Hour="h:mm:ss"
         android:format24Hour="HH:mm:ss"
         android:layout_gravity="center_horizontal"
         android:elegantTextHeight="true"
