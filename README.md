@@ -7,7 +7,7 @@ Licenses
 
 ### Code
 
-Copyright © 2015, Chris Warrick.
+Copyright © 2015-2016, Chris Warrick.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -40,15 +40,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ### Icon
 
-**The Oxygen Icon Theme**
+**The Breeze Icon Theme**
 
-Copyright (C) 2007 Nuno Pinheiro <nuno@oxygen-icons.org>
-Copyright (C) 2007 David Vignoni <david@icon-king.com>
-Copyright (C) 2007 David Miller <miller@oxygen-icons.org>
-Copyright (C) 2007 Johann Ollivier Lapeyre <johann@oxygen-icons.org>
-Copyright (C) 2007 Kenneth Wimer <kwwii@bootsplash.org>
-Copyright (C) 2007 Riccardo Iaconelli <riccardo@oxygen-icons.org>
+Copyright (C) 2014 Uri Herrera <uri_herrera@nitrux.in> and others
 
-Licensed under the terms of LGPL.
+Licensed under the terms of LGPLv3.
 
 See `LICENSE.icon` for full licensing terms.
