@@ -1,7 +1,7 @@
 /*
  * seClock v0.1.3
  * A simple Android clock, with seconds display.
- * Copyright © 2015-2016, Chris Warrick.
+ * Copyright © 2015-2017, Chris Warrick.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
